@@ -34,7 +34,7 @@ def addBook():
     global bookInfo1, bookInfo2, bookInfo3, bookInfo4, Canvas1, con, cur, bookTable, root
 
     root = Tk()
-    root.title("Library")
+    root.title("Add Books Screen")
     root.minsize(width=400, height=400)
     root.geometry("600x500")
     root.wm_iconbitmap(r"Resources/addico.ico")
