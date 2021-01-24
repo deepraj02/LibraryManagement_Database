@@ -18,7 +18,7 @@ bookTable = "books"
 def View():
 
     root = Tk()
-    root.title("Library")
+    root.title("View Books Screen")
     root.minsize(width=400, height=400)
     root.geometry("600x500")
     root.wm_iconbitmap(r"Resources/returnico.ico")
