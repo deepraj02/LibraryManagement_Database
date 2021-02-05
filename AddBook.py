@@ -3,6 +3,7 @@ from PIL import ImageTk, Image
 from tkinter import messagebox
 import pymysql
 
+#% <-------------------- Functions ----------------------------->
 
 def bookRegister():
 
@@ -32,6 +33,9 @@ def bookRegister():
 def addBook():
 
     global bookInfo1, bookInfo2, bookInfo3, bookInfo4, Canvas1, con, cur, bookTable, root
+
+
+#& <======================== Main UI Body ========================>
 
     root = Tk()
     root.title("Add Books Screen")
