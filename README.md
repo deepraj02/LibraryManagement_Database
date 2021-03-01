@@ -98,8 +98,10 @@ Below are the project files you will get once you download and extract the Libra
 
 - 🌐 Visit My **WEBSITE** [Here](https://deepraj02.github.io)
 
-<h3 align="left">Connect with me:</h3>
+
+
+## Social Links:
+
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/deepraj-baidya-28a743173/) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/deeprajbaidya02) [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/profile.php?id=100012164535795) [<img src="https://github.com/deepraj02/deepraj02/blob/main/spotify.png" width="35" height="35"/>](https://open.spotify.com/user/2xksjqes3nkmx3ibh9l58w77y?si=664a9ed56b804b1d) [<img src="https://github.com/deepraj02/deepraj02/blob/main/Dis.png" width="35" height="35"/>](https://discord.gg/qYXNvuM5) [<img src="https://github.com/deepraj02/deepraj02/blob/main/webs.png" width="35" height="35"/>](https://deepraj02.github.io/)
-<br>
 
 # **HAPPY CODING..💻**
